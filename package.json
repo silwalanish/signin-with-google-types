@@ -1,6 +1,6 @@
 {
   "name": "signin-with-google-types",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Type declarations for Sign In with Google javascript API.",
   "scripts": {
     "lint": "dtslint types"
